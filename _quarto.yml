@@ -5,6 +5,7 @@ project:
 website:
   title: "Nan Zhang"
   navbar:
+    pinned: true
     search: false
     left:
       - href: index.qmd
@@ -18,7 +19,7 @@ format:
     theme: sandstone
     linkcolor: "#0066ff"
     css: styles.css
-    toc: true
+    toc: false
 
 
 
