@@ -18,6 +18,9 @@ website:
         
       - text: "Teaching"
         href: teaching.qmd
+        
+      - text: "Making Diversity Work"
+        href: mdw.qmd
 
 format:
   html:
