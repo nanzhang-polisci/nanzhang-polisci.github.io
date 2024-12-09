@@ -5,7 +5,7 @@ resources: CV.pdf
 about:
   template: trestles
   image-shape: rectangle
-  image-width: 10em
+  image-width: 12em
   links:
     - text: Email
       icon: envelope
