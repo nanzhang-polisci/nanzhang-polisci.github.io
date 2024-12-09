@@ -9,7 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
+      - href: research.qmd
+        text: Research
       - teaching.qmd
 
 format:
