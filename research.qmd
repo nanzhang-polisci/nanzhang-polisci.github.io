@@ -89,13 +89,13 @@ Winner: European Sociological Review Best Article of the Year Prize 2020
 [{{< bi file-earmark-pdf color=red size=1em >}}](https://www.pnas.org/doi/epdf/10.1073/pnas.1718309115)
 
 
-[6] **Institutions, Norms, and Accountability: A Corruption Experiment with Northern and Southern Italians**. 
+[6] **Institutions, Norms, and Accountability: A Corruption Experiment with Northern and Southern Italians**.   
 *Journal of Experimental Political Science*, 2018, 5(1): 11-25.
 [{{< bi link-45deg color=blue size=1em >}}](https://doi.org/10.1017/XPS.2017.26)
 
 
 [5] **Legibility and the Informational Foundations of State Capacity**. (with Melissa Lee).   
-The **Journal of Politics**, 2017, 79(1): 118–132.
+The *Journal of Politics*, 2017, 79(1): 118–132.
 [{{< bi link-45deg color=blue size=1em >}}](https://www.journals.uchicago.edu/doi/full/10.1086/688053)
 [{{< bi file-earmark-pdf color=red size=1em >}}](https://www.journals.uchicago.edu/doi/epdf/10.1086/688053)
 
