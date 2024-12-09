@@ -4,22 +4,28 @@ project:
 
 website:
   title: "Nan Zhang"
+  
   navbar:
     pinned: true
     search: false
     left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - teaching.qmd
+      
+      - text: "Home"
+        href: index.qmd
+
+      - text: "Research" 
+        href: research.qmd
+        
+      - text: "Teaching"
+        href: teaching.qmd
 
 format:
   html:
+    page-layout: full
     theme: sandstone
     linkcolor: "#0066ff"
     css: styles.css
-    toc: false
+    toc: true
 
 
 
