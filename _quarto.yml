@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Home"
+  title: "Nan Zhang"
   navbar:
+    search: false
     left:
       - href: index.qmd
         text: Home
       - research.qmd
+      - teaching.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    linkcolor: "#0066ff"
     css: styles.css
     toc: true
 
