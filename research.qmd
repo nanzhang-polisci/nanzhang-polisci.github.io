@@ -113,7 +113,8 @@ The *Journal of Politics*, 2017, 79(1): 118–132.
 [{{< bi file-earmark-pdf color=red size=1em >}}](https://www.readcube.com/articles/10.3389/fpsyg.2016.00472)
 
 
-[2] **Changing a ‘Culture’ of Corruption: Evidence from an Economic Experiment in Italy**.   *Rationality & Society*, 2015, 27(4): 387-413.
+[2] **Changing a ‘Culture’ of Corruption: Evidence from an Economic Experiment in Italy**.   
+*Rationality & Society*, 2015, 27(4): 387-413.
 [{{< bi link-45deg color=blue size=1em >}}](https://journals.sagepub.com/doi/abs/10.1177/1043463115605475)
 
 
