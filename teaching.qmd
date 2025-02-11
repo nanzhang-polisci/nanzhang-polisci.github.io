@@ -31,3 +31,5 @@ This course involves support for writing a BA thesis in political science.
 Students will need to design and carry a research strategy that includes (i) identifying an original contribution to a body of literature, (ii) finding or generating appropriate data, and (iii) conducting a rigorous data analysis. 
 
 This colloquium is designed to help students progress along each of these steps by providing periodic feedback from the instructor.
+
+The link to the syllabus is [here](https://nanzhang-polisci.github.io/BA_Colloq.html).
