@@ -18,7 +18,9 @@ The overarching goal is to provide students with the foundation to perform their
 
 You may find the link to each of the tutorials here:
 
-[Political Sociology](https://nanzhang-polisci.github.io/QMPS_FSS25.html), &nbsp; [International Relations](https://nanzhang-polisci.github.io/QMIR_FSS25.html), &nbsp; [Comparative Politics](https://nanzhang-polisci.github.io/QMCP_FSS25.html)
+
+
+[International Relations](https://nanzhang-polisci.github.io/QMIR_FSS25.html), &nbsp; [Political Sociology](https://nanzhang-polisci.github.io/QMPS_FSS25.html), &nbsp; [Comparative Politics](https://nanzhang-polisci.github.io/QMCP_FSS25.html)
 
 ---
 
