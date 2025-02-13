@@ -4,6 +4,13 @@ title: ""
 
 # Publications
 
+
+**Military Service and Immigrants’ Assimilation: Evidence from the Vietnam Draft Lotteries**.  
+(with Melissa Lee).
+Conditionally accepted in the *American Political Science Review*.
+
+
+
 [18] **Ethnic Diversity and Cooperation: Evidence from a Lost Letter Experiment.** (with Alexandra Kommol).   
 *Journal of Ethnic and Migration Studies*, 2024, 50(18): 4600-4620. 
 [{{< bi link-45deg color=blue size=1em >}}](https://www.tandfonline.com/doi/full/10.1080/1369183X.2024.2334909) 
@@ -125,13 +132,6 @@ The *Journal of Politics*, 2017, 79(1): 118–132.
 
 # Selected Working Papers
 
-**Military Service and Immigrants’ Assimilation: Evidence from the Vietnam Draft Lotteries**.  
-(with Melissa Lee).
-
-<details>
-<summary>Abstract</summary>
-Seminal theories in political science argue that military service is a critical driver of peripheral minorities' integration into the mainstream. However, a major obstacle bedeviling the study of military service and integration is self-selection: individuals who are better assimilated may be more likely to join the military in the first place. We address the selection problem by examining the effects of military conscription during the Vietnam War using an instrumental variables approach. Conscription during 1970-- 1972 was decided on the basis of national draft lotteries that assigned draft numbers based on an individual's date of birth. Using the draft lottery instrument, we find no evidence of a causal effect of military service on a range of integration outcomes from the 2000 decennial census. At least for the Vietnam era, the link between service and integration is largely driven by self-selection, which points to important scope conditions for the integrationist view.
-</details>
 
 **Cross-cutting Cleavages and Native-Refugee Contact: Evidence from Germany**.   
 (with Alexandra Kommol).
