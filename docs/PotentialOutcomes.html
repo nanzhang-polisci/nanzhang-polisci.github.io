@@ -3325,7 +3325,7 @@ Discuss:
 <li><span class="math inline">\(Y_i(0)\)</span> = your income in the universe where you do not</li>
 </ul>
 <p>The causal effect of university on your income is therefore <span class="math inline">\(\tau_i \equiv Y_i(1) - Y_i(0)\)</span>. This is called the <strong>individual treatment effect</strong> (ITE).</p>
-<p>We can also calculate an <strong>average treatment effect</strong> (ATE) which is simply the average or <strong>expected value</strong> of the ITEs:</p>
+<p>We can also calculate an <strong>average treatment effect</strong> (ATE) which is simply the average or <strong>expectation</strong> of the ITEs:</p>
 <p><span class="math display">\[
 ATE \equiv \mathbb{E}[Y_i(1) - Y_i(0)]
 \]</span></p>
@@ -3581,6 +3581,7 @@ Recall from your reading:
 </div>
 <p>What is selection bias?</p>
 <p>It’s the <strong>difference in baseline (potential untreated) outcomes</strong> between people who did and did not attend university.</p>
+<p>In this case, people with higher ability were also more likely to self-select into university. And they also earn higher incomes (due to their higher ability).</p>
 <p>Since we made up the data, we have the full schedule of potential outcomes, and we can calculate the average amount of selection bias across our 1000 simulations:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">set.seed</span>(<span class="dv">2</span>)</span>
