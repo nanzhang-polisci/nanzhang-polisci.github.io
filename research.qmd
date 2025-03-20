@@ -5,10 +5,15 @@ title: ""
 # Publications
 
 
-[19] **Military Service and Immigrants’ Assimilation: Evidence from the Vietnam Draft Lotteries**.  
+[20] **Military Service and Immigrants’ Assimilation: Evidence from the Vietnam Draft Lotteries**.  
 (with Melissa Lee).
 Conditionally accepted in the *American Political Science Review*.
 
+
+[19] **The reliability of replications: a study in computational reproductions.** (with Nate Breznau, Eike Mark Rinke, Alexander Wuttke  and others).   
+*Royal Society Open Science*, 2025, 12(3):241038.
+[{{< bi link-45deg color=blue size=1em >}}](https://royalsocietypublishing.org/doi/10.1098/rsos.241038) 
+[{{< bi file-earmark-pdf color=red size=1em >}}](https://royalsocietypublishing.org/doi/epdf/10.1098/rsos.241038)
 
 
 [18] **Ethnic Diversity and Cooperation: Evidence from a Lost Letter Experiment.** (with Alexandra Kommol).   
@@ -49,7 +54,7 @@ Conditionally accepted in the *American Political Science Review*.
 
 
 
-[12] **Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty.** (with Nate Breznau, Eike Mark Rinke, Alexander Wuttke, Hung H.V. Nguyen and 160 others).   
+[12] **Observing Many Researchers Using the Same Data and Hypothesis Reveals a Hidden Universe of Uncertainty.** (with Nate Breznau, Eike Mark Rinke, Alexander Wuttke, Hung H.V. Nguyen and others).   
 *Proceedings of the National Academy of Sciences*, 2022, 119(44):e2203150119.
 [{{< bi link-45deg color=blue size=1em >}}](https://doi.org/10.1073/pnas.2203150119) 
 [{{< bi file-earmark-pdf color=red size=1em >}}](https://www.pnas.org/doi/epub/10.1073/pnas.2203150119)
