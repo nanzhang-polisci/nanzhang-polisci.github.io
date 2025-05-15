@@ -7,8 +7,9 @@ title: ""
 
 [20] **Military Service and Immigrants’ Assimilation: Evidence from the Vietnam Draft Lotteries**.  
 (with Melissa Lee).
-Conditionally accepted in the *American Political Science Review*.
-
+*American Political Science Review* online first.
+[{{< bi link-45deg color=blue size=1em >}}](https://doi.org/10.1017/S000305542500019X) 
+[{{< bi file-earmark-pdf color=red size=1em >}}](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/DD08CCB60608ED8B21EF2AA8A0440266/S000305542500019Xa.pdf/military-service-and-immigrants-integration-evidence-from-the-vietnam-draft-lotteries.pdf)
 
 [19] **The reliability of replications: a study in computational reproductions.** (with Nate Breznau, Eike Mark Rinke, Alexander Wuttke  and others).   
 *Royal Society Open Science*, 2025, 12(3):241038.
