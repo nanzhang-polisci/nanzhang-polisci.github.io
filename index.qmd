@@ -16,6 +16,9 @@ about:
     - text: CV
       icon: filetype-pdf
       href: CV.pdf
+    - text: ORCID iD
+      icon: info-circle
+      href: https://orcid.org/0009-0001-6883-1359
 ---
 
 I am Professor of [Evidence-based Political Research](https://www.sowi.uni-mannheim.de/zhang/) at the University of Mannheim, where I also head the Emmy-Noether research group Making Diversity Work at the [Mannheim Centre for European Social Research (MZES)](mzes.uni-mannheim.de/d7/en). My work spans both Political Science and Sociology, with a focus on the study of group relations, language and identity, social norms, and civic behavior. Major applications include research on immigration, ethnic diversity, and state- and nation-building.

@@ -20,7 +20,7 @@ You may find the link to each of the tutorials here:
 
 
 
-[International Relations](https://nanzhang-polisci.github.io/QMIR_FSS25.html), &nbsp; [Political Sociology](https://nanzhang-polisci.github.io/QMPS_FSS25.html), &nbsp; [Comparative Politics](https://nanzhang-polisci.github.io/QMCP_FSS25.html)
+[International Relations](https://nanzhang-polisci.github.io/QMIR_HWS25.html), &nbsp; [Political Sociology](https://nanzhang-polisci.github.io/QMPS_HWS25.html), &nbsp; [Comparative Politics](https://nanzhang-polisci.github.io/QMCP_HWS25.html)
 
 ---
 
