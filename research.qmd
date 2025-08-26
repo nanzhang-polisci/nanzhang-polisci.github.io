@@ -34,6 +34,10 @@ title: ""
 [{{< bi link-45deg color=blue size=1em >}}](https://doi.org/10.1017/S0003055423000096) 
 [{{< bi file-earmark-pdf color=red size=1em >}}](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/209A985C6BFB23E4B7B3E46FC22FF513/S0003055423000096a.pdf/from-pluribus-to-unum-the-civil-war-and-imagined-sovereignty-in-nineteenth-century-america.pdf)
 
+::: {.callout-caution appearance="minimal"}
+Winner: 2025 Mary Parker Follett Prize, Politics and History Section, American Political Science Association
+:::
+
 
 [15] **Norms of Prejudice: Political Identity and Polarization**.   
 (with Amalia Álvarez-Benjumea and Fabian Winter).   
