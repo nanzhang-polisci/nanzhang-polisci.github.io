@@ -4,11 +4,20 @@ title: "Teaching"
 
 ---
 
-### Causal Inference Tutorials
 
-Currently, I am offering regular tutorials ("Übungen") in each of the three Political Science modules, with a focus on experiments and causal inference.
+### Political Sociology Seminar: Experiments on Voting
 
-These courses will teach students how to analyze questions from their subfiled of interest through the application of causal inference methods. 
+Political participation represents an enduring puzzle for political scientists: given that an individual vote is rarely decisive, why do people bother to go to the polls? 
+
+In this seminar, we will address this question via some of the latest experimental research on voting and turnout. The goal is provide students with both an overview of recent evidence on voting behavior, as well as an applied introduction to state-of-the-art methods for drawing inferences from experimental and observational data.
+
+The link to the syllabus is [here](https://nanzhang-polisci.github.io/Turnout_FSS26)
+
+---
+
+### Comparative Politics Tutorial: Causal Inference
+
+This course will teach students how to analyze research questions in Comparative Politics through the application of causal inference methods. 
 
 We will begin by asking what it means for X to cause Y using the framework of potential outcomes. We will then look at some of the most popular research designs in causal analysis including experiments, regression discontinuity designs, difference-in-differences / two-way fixed effects, and instrumental variables.
 
@@ -16,11 +25,7 @@ Students will learn to apply these methods to real data in R.
 
 The overarching goal is to provide students with the foundation to perform their own analyses (e.g. for their BA theses) by transferring the acquired skills to their research interests.
 
-You may find the link to each of the tutorials here:
-
-
-
-[International Relations](https://nanzhang-polisci.github.io/QMIR_HWS25.html), &nbsp; [Political Sociology](https://nanzhang-polisci.github.io/QMPS_HWS25.html), &nbsp; [Comparative Politics](https://nanzhang-polisci.github.io/QMCP_HWS25.html)
+The link to the syllabus is [here](https://nanzhang-polisci.github.io/QMCP_FSS26.html)
 
 ---
 
