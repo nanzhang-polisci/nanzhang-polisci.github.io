@@ -6,7 +6,9 @@ title: ""
 
 [21] **Investigating the reproducibility of the social and behavioural sciences.**
 (with Olivia Miske and others).
-*Nature* in press.
+*Nature*, 2026, 652:126–134
+[{{< bi link-45deg color=blue size=1em >}}](https://www.nature.com/articles/s41586-026-10203-5) 
+[{{< bi file-earmark-pdf color=red size=1em >}}](https://www.nature.com/articles/s41586-026-10203-5.pdf)
 
 [20] **Military Service and Immigrants’ Assimilation: Evidence from the Vietnam Draft Lotteries**.  
 (with Melissa Lee).
