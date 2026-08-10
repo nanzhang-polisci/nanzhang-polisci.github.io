@@ -5,36 +5,26 @@ title: "Teaching"
 ---
 
 
-### Political Sociology Seminar: Experiments on Voting
+### Lecture: Experimental and Observational Approaches to Causal Inference
 
-Political participation represents an enduring puzzle for political scientists: given that an individual vote is rarely decisive, why do people bother to go to the polls? 
+This course will teach students how to analyze political science questions through the application of causal inference methods. We will begin by asking what it means for X to cause Y using the potential outcomes framework. We will then look at some of the most popular research designs in causal analysis including experiments, regression discontinuity designs, difference-in-differences / two-way fixed effects, instrumental variables and matching.  As illustrations of these methods, we will read some fun papers from different subfields of political science.
 
-In this seminar, we will address this question via some of the latest experimental research on voting and turnout. The goal is provide students with both an overview of recent evidence on voting behavior, as well as an applied introduction to state-of-the-art methods for drawing inferences from experimental and observational data.
-
-The link to the syllabus is [here](https://nanzhang-polisci.github.io/Turnout_FSS26)
+The link to the syllabus is [here](https://nanzhang-polisci.github.io/VL_HWS26)
 
 ---
 
-### Comparative Politics Tutorial: Causal Inference
+### Tutorial: Applied Causal Inference 
 
-This course will teach students how to analyze research questions in Comparative Politics through the application of causal inference methods. 
+This Tutorial is meant as a companion to the Lecture on Experimental and Observational Approaches to Causal Inference.
+While the Lecture covers the logic underlying experiments and other causal research designs via examples from published research, the Tutorial will provide students with the opportunity to apply these methods themselves using replication datasets. The course will be taught in R.  Prior familiarity with R is helpful, but not necessary (although you will have to do some work outside of class to learn the basics).  
 
-We will begin by asking what it means for X to cause Y using the framework of potential outcomes. We will then look at some of the most popular research designs in causal analysis including experiments, regression discontinuity designs, difference-in-differences / two-way fixed effects, and instrumental variables.
 
-Students will learn to apply these methods to real data in R.
-
-The overarching goal is to provide students with the foundation to perform their own analyses (e.g. for their BA theses) by transferring the acquired skills to their research interests.
-
-The link to the syllabus is [here](https://nanzhang-polisci.github.io/QMCP_FSS26.html)
+The link to the syllabus is [here](https://nanzhang-polisci.github.io/U_HWS26.html)
 
 ---
 
-### BA Thesis Colloquium in International Relations
+### Seminar: Field Experiments
 
-This course involves support for writing a BA thesis in political science. 
+This seminar will provide a collaborative and immersive research experience where students work together with the instructor to design, implement, and analyze a field experiment. Upon completion of this course, students will have first-hand experience with the entire “research process cycle” from study design and pre-analysis planning, through fieldwork and data collection, to statistical analysis and communication of the final results.
 
-Students will need to design and carry a research strategy that includes (i) identifying an original contribution to a body of literature, (ii) finding or generating appropriate data, and (iii) conducting a rigorous data analysis. 
-
-This colloquium is designed to help students progress along each of these steps by providing periodic feedback from the instructor.
-
-The link to the syllabus is [here](https://nanzhang-polisci.github.io/BA_Colloq.html).
+The link to the syllabus is [here](https://nanzhang-polisci.github.io/HS_field_HWS26.html).
